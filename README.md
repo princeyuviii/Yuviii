@@ -1,4 +1,4 @@
-# yuviii.in
+# Yuviii.in
 
 My personal portfolio website documenting what I build, why I build it, and how I use modern full-stack and AI technologies to create real-world systems.
 
